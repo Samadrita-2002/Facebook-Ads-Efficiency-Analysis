@@ -148,5 +148,5 @@ for a, b in combinations(campaigns, 2):
 # the conversion-rate differences between each pair are statistically significant.
 
 from sqlalchemy import create_engine
-engine = create_engine('mysql+pymysql://root:thousand@localhost/fb_ads_analysis')
+engine = create_engine('mysql+pymysql://root:password@localhost/fb_ads_analysis')
 df.to_sql('fb_ads', engine, if_exists='replace', index=False)
