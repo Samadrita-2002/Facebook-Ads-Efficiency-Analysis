@@ -59,11 +59,11 @@ Excel (Pivot tables) → Python/pandas + scipy.stats
 - Statistical significance does not by itself establish business significance or causality.
 
 ## Dashboard
-[Dashboard](https://github.com/Samadrita-2002/Credit_Risk_Analysis/blob/main/dashboard.png)
+[Dashboard](https://github.com/Samadrita-2002/Facebook-Ads-Efficiency-Analysis/blob/main/Dashboard.png)
 
 ## Files
-- [cleaned dataset](https://github.com/Samadrita-2002/Credit_Risk_Analysis/blob/main/cleaned_credit_risk.csv)
-- [Python:cleaning and feature engineering](https://github.com/Samadrita-2002/Credit_Risk_Analysis/blob/main/credit_risk_analysis.py)
-- [SQL: analysis queries](https://github.com/Samadrita-2002/Credit_Risk_Analysis/blob/main/Credit_risk_queries.sql)
-- [Queries outputs and pivot table](https://github.com/Samadrita-2002/Credit_Risk_Analysis/blob/main/sql_query%20results_and%20pivot%20table.xlsx)
-- [Power BI file](https://github.com/Samadrita-2002/Credit_Risk_Analysis/blob/main/Credit%20Risk%20Analysis%20Dashboard.pdf)
+- [cleaned dataset](https://github.com/Samadrita-2002/Facebook-Ads-Efficiency-Analysis/blob/main/cleaned_fb_ads.csv)
+- [Python:data cleaning, hypothesis testing](https://github.com/Samadrita-2002/Facebook-Ads-Efficiency-Analysis/blob/main/fb_ad_campaign_analysis.py)
+- [SQL: analysis queries](https://github.com/Samadrita-2002/Facebook-Ads-Efficiency-Analysis/blob/main/fb_ads_queries.sql)
+- [Queries outputs and pivot table](https://github.com/Samadrita-2002/Facebook-Ads-Efficiency-Analysis/blob/main/sql%20query%20results%20and%20pivot%20tables.xlsx)
+- [Power BI file](https://github.com/Samadrita-2002/Facebook-Ads-Efficiency-Analysis/blob/main/FB%20Ads%20Efficiency%20Analysis%20Dashboard.pdf)
